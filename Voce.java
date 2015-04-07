@@ -1,6 +1,3 @@
-package rubrica;
-
-
 public class Voce{
 	private String nome;
 	private String telefono;
